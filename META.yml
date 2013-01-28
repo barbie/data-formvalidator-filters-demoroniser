@@ -1,11 +1,11 @@
 --- #YAML:1.0
 name:                     Data-FormValidator-Filters-Demoroniser
 version:                  0.02
-abstract:                 A Data::FormValidator filter that allows you to demoronise a string.
+abstract:                 A Data::FormValidator filter that allows you to demoronise a string
 author:
   - Barbie <barbie@cpan.org>
 
-license:                  perl
+license:                  artistic_2
 distribution_type:        module
 installdirs:              site
 
