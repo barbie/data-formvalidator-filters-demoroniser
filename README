@@ -8,23 +8,24 @@ characters to normal characters from a string in form field values.
 
 DEPENDENCIES
 
-  Text::Demoroniser   >= 0
+  Text::Demoroniser
 
 Although not exactly a dependency, the following was the intended target for
 this distribution:
 
-  Data::FormValidator >= 0
+  Data::FormValidator
 
 For testing purposes, the following modules are required:
 
-  Test::More          >= 0.70
+  Test::More
 
 For testing purposes, the following modules are desireable, but not essential:
 
-  Test::Pod           >= 1.00
-  Test::Pod::Coverage >= 0.08
   Pod::Coverage
-  Test::CPAN::Meta    >= 1.13
+  Test::CPAN::Meta
+  Test::CPAN::Meta::JSON
+  Test::Pod
+  Test::Pod::Coverage
 
 INSTALLATION
 

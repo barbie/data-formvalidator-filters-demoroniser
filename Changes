@@ -4,6 +4,8 @@
         - change file dates changed to meet W3CDTF standards.
         - spelling fixes. (thanks to Florian Schlichting & Gregor Herrmann).
         - License updated to Artistic License v2.
+        - updated META files, adding META.json.
+        - added minimum perl version (5.006).
 
 0.02    2009-08-11
 	    - abstracted guts out into Text::Demoroniser as suggested by Brian 

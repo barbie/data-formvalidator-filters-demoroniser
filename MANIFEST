@@ -5,6 +5,7 @@ lib/Data/FormValidator/Filters/Demoroniser.pm
 LICENSE
 Makefile.PL
 MANIFEST
+META.json
 META.yml
 README
 t/01use.t
