@@ -1,11 +1,12 @@
 # Changes log for Data::FormValidator::Filters::Demoroniser
 
         - removed Artistic file.
+        - change file dates changed to meet W3CDTF standards.
 
-0.02    11/08/2009
-	- abstracted guts out into Text::Demoroniser as suggested by Brian 
-	  Cassidy, for use by other non-DFV modules and applications.
+0.02    2009-08-11
+	    - abstracted guts out into Text::Demoroniser as suggested by Brian 
+	      Cassidy, for use by other non-DFV modules and applications.
 
-0.01    10/08/2009
+0.01    2009-08-10
         - Initial release.
-	- inspired by the demoroniser script
+	    - inspired by the demoroniser script
