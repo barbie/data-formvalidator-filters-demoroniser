@@ -21,5 +21,5 @@ WriteMakefile(
         'IO::File'              => 0,
         'Test::More'            => 0.70
 
-    },
+    }
 );
