@@ -1,6 +1,8 @@
 package Data::FormValidator::Filters::Demoroniser;
 
 use strict;
+use warnings;
+
 use vars qw( $VERSION @ISA @EXPORT @EXPORT_OK %EXPORT_TAGS );
 use Text::Demoroniser;
 
