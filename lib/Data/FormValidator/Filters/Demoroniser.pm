@@ -8,7 +8,7 @@ use Text::Demoroniser;
 
 BEGIN {
 	require Exporter;
-	$VERSION = '0.03';
+	$VERSION = '0.04';
 	@ISA = qw( Exporter );
 	@EXPORT = qw();
 	%EXPORT_TAGS = (
