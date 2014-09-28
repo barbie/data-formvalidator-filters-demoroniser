@@ -1,6 +1,8 @@
 Changes log for Data-FormValidator-Filters-Demoroniser
 ======================================================
 
+        - fixed license fields in META.json to be lists.
+
 0.04    2014-08-05
         - fixed distribution name in metadata.
         - package file updates.
